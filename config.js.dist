@@ -1,0 +1,2 @@
+var supportedLanguages = ['de', 'en', 'fr', 'ro']
+var defaultLanguage = 'en'
